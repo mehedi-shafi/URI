@@ -21,4 +21,5 @@ int main ()
         m += h*60;
         cout << m << endl;
     }
+    return 0;
 }
